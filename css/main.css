@@ -569,6 +569,10 @@ body {
   border-radius: 10px;
 }
 
+.hero__link:hover {
+  background: rgba(113, 7, 7, 0.5333333333);
+}
+
 .hero__img {
   margin-bottom: 80px;
   margin-left: -50px;
