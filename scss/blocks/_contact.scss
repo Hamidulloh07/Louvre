@@ -1,0 +1,80 @@
+.contact {
+
+}
+
+.contact__div {
+padding-top: 75px;
+padding-bottom: 75px;
+}
+
+.contact__oo {
+margin-top: 75px;
+   display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+ 
+}
+
+.contact__heading {
+  margin-bottom: 20px;
+  font-family: 'Forum';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 90px;
+  /* identical to box height, or 112% */
+  
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  
+  color: #9D8665;
+  
+}
+
+.contact__hr {
+  display: flex;
+  background: #710707;
+  border-radius: 0px;
+  max-width: 1440px;
+  width: 100%;
+  height: 3px;
+}
+
+.contact__title-div {
+
+}
+
+.contact__link {
+  display: block;
+  text-decoration: none;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 26px;
+margin-top: 25px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.contact__sub-title {
+  padding-right: 250px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 33px;
+  
+  color: #000000;
+  
+}
+
+.contact__map {
+max-width: 810px;
+height: 500px;
+width: 100%;
+}
+
+
